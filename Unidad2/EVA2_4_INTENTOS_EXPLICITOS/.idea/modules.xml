@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EVA2_4_INTENTOS_EXPLICITOS.iml" filepath="$PROJECT_DIR$/EVA2_4_INTENTOS_EXPLICITOS.iml" group="EVA2_4_INTENTOS_EXPLICITOS" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="EVA2_4_INTENTOS_EXPLICITOS/app" />
+    </modules>
+  </component>
+</project>

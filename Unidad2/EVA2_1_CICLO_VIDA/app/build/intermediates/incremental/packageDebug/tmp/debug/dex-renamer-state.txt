@@ -1,0 +1,7 @@
+#Tue Mar 03 14:44:09 MST 2020
+base.0=C\:\\Users\\Rodrigo\\Google Drive\\Aplicaciones moviles\\Practicas\\EVA2_1_CICLO_VIDA\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Rodrigo\\Google Drive\\Aplicaciones moviles\\Practicas\\EVA2_1_CICLO_VIDA\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

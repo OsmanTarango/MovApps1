@@ -1,0 +1,7 @@
+#Wed Apr 01 14:43:53 MST 2020
+base.0=C\:\\Users\\osman\\AndroidStudioProjects\\EVA2_4_INTENTOS_EXPLICITOS\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\osman\\AndroidStudioProjects\\EVA2_4_INTENTOS_EXPLICITOS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
